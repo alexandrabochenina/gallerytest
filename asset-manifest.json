@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f1c871a.css",
+    "main.js": "/static/js/main.2bb4bdd2.js",
+    "static/media/LibreBaskerville-Bold.woff": "/static/media/LibreBaskerville-Bold.b40a4cf61b1947f058bb.woff",
+    "static/media/LibreBaskerville-Regular.woff": "/static/media/LibreBaskerville-Regular.88282b8b9d89d1183aa5.woff",
+    "static/media/LibreBaskerville-Bold.woff2": "/static/media/LibreBaskerville-Bold.e1014d99a2fe3ec8e216.woff2",
+    "static/media/LibreBaskerville-Regular.woff2": "/static/media/LibreBaskerville-Regular.68fdb4aa0eccd18216b7.woff2",
+    "static/media/Like.svg": "/static/media/Like.0bc60938ca96a5dcae18.svg",
+    "static/media/filter.svg": "/static/media/filter.74e5d883d0c2894d9b73.svg",
+    "static/media/Trash.svg": "/static/media/Trash.29243c15938c5d1c4d02.svg",
+    "static/media/BlackLike.svg": "/static/media/BlackLike.e787eeb70bb65b7b453a.svg",
+    "index.html": "/index.html",
+    "main.7f1c871a.css.map": "/static/css/main.7f1c871a.css.map",
+    "main.2bb4bdd2.js.map": "/static/js/main.2bb4bdd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1c871a.css",
+    "static/js/main.2bb4bdd2.js"
+  ]
+}
