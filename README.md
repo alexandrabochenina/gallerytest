@@ -1,6 +1,7 @@
 Проект: Галерея постов
 
 <img src="./src/image/readmegallery.jpeg">
+https://alexandrabochenina.github.io/post-gallery/
 
 Основные технологии: 
 
