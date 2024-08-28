@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "LibreBaskerville";
+    src: url("../src/assets/fonts/LibreBaskerville-Regular.woff") format('woff'),
+    url("../src/assets/fonts/LibreBaskerville-Regular.woff2") format('woff2'),
+}
+
+@font-face {
+    font-family: "LibreBaskervilleBold";
+    src: url("../src/assets/fonts/LibreBaskerville-Bold.woff") format('woff'),
+    url("../src/assets/fonts/LibreBaskerville-Bold.woff2") format('woff2'),
+}

@@ -1,0 +1,18 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: auto;
+    text-decoration: none;
+}
+
+.header {
+    margin: 0;
+    font-family: 'LibreBaskervilleBold', sans-serif;
+}

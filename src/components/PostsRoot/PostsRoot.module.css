@@ -1,0 +1,41 @@
+.wrapPost {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    padding: 0;
+    border: none;
+    border-radius: 30px;
+}
+
+.button:hover {
+    opacity: 50%;
+    cursor: pointer;
+}
+
+.imgsection {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.buttonfilter {
+    width: 20px;
+    height: 20px;
+    background-image: url(../../image/filter.svg);
+    border: none; 
+}
+
+.buttonfilter:hover {
+    opacity: 50%;
+    cursor: pointer;
+}

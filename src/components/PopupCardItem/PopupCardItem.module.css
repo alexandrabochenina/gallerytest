@@ -1,0 +1,59 @@
+.wrapPopup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+}
+
+.popup {
+    background-color: aliceblue;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+.closeButton {
+    position: absolute;
+    padding: 0;
+    right: 560px;
+    top: 190px;
+    width: 32px;
+    height: 32px;
+    border: none;
+    background-color: white;
+    background: transparent;
+}
+
+.closeButton:hover {
+    opacity: 10%;
+    cursor: pointer;
+}
+
+.closeImg {
+    width: 50px;
+    height: 50px;
+}
+
+.wrapbody {
+    padding: 10px;
+    text-align: center;
+}
+
+.body {
+    font-family: 'LibreBaskerville', sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-family: 'LibreBaskervilleBold', sans-serif;
+    font-weight: 700;
+}
